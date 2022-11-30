@@ -1,0 +1,14 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.anotherfont {
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 65% !important; 
+}
+.myfooter{
+    font-style: italic;
+}
